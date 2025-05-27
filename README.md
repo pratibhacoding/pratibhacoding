@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @pratibha
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Data Structure With C
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋🏻 Hi there, I’m Pratibha!
+- 🖥️ Aspiring Web Developer.
+- 🔍 Currently learning **Python** and **Java Programing**
+- 🫱🏻‍🫲🏻 Open to collobration on exciting development projects. 
+- 📫 How to reach me:www.linkedin.com/in/pratibha-kumari-a9534230a
+- 💬 Pronouns:She/Her
+- 🎉 Fun fact:I enjoy exploring new technologies and solving coding challenges.
 
-<!---
-pratibhacoding/pratibhacoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<---
+pratibhacoding/pratibhacoding is a special repository because its `README.md` (this file) appears on your GitHub profile.
+You can feel free click the **Preview** link or tab above to see how your changes look.
 --->
