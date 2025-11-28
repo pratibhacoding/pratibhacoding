@@ -1,5 +1,5 @@
 - 👋🏻 Hi there, I’m Pratibha!
-- 🖥️ Aspiring Web Developer.
+- 🖥️ Aspiring Web Developer and AIML.
 - 🔍 Currently learning **Python** and **Java Programing**
 - 🫱🏻‍🫲🏻 Open to collobration on exciting development projects. 
 - 📫 How to reach me:www.linkedin.com/in/pratibha-kumari-a9534230a
